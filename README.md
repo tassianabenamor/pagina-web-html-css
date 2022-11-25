@@ -1,2 +1,2 @@
-# web-page-with-HTML5-CSS3
-Created as a study case.
+# Página web utilizando HTML5 e CSS3
+
